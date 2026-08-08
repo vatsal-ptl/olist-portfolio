@@ -19,7 +19,7 @@ See: [olist_queries.sql](https://raw.githubusercontent.com/vatsal-ptl/olist-port
 - Customer retention 2017 → 2018
 
 ## Power BI Dashboard
-![Olist Dashboard](powerbi/olist_dashboard.pdf)
+![Olist Dashboard](powerbi/Olist_Dashboard.pdf)
 
 **Key Findings:**
 - Revenue grew 18x from late 2016 to early 2018
