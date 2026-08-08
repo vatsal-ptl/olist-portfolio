@@ -8,7 +8,7 @@ Analysis of Brazilian e-commerce data using SQL and Power BI.
 
 ## SQL Analysis
 10 business questions answered on the Olist dataset.
-See: [olist_queries.sql](sql/olist_queries.sql)
+See: [olist_queries.sql](sql/olist_analysis.sql)
 
 **Questions covered:**
 - Revenue and orders by status
@@ -19,7 +19,7 @@ See: [olist_queries.sql](sql/olist_queries.sql)
 - Customer retention 2017 → 2018
 
 ## Power BI Dashboard
-![Olist Dashboard](powerbi/olist_dashboard.png)
+![Olist Dashboard](powerbi/olist_dashboard.pdf)
 
 **Key Findings:**
 - Revenue grew 18x from late 2016 to early 2018
