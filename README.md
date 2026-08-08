@@ -8,7 +8,7 @@ Analysis of Brazilian e-commerce data using SQL and Power BI.
 
 ## SQL Analysis
 10 business questions answered on the Olist dataset.
-See: [olist_queries.sql](sql/olist_analysis.sql)
+See: [olist_queries.sql](https://raw.githubusercontent.com/vatsal-ptl/olist-portfolio/refs/heads/main/sql/olist_analysis.sql.txt)
 
 **Questions covered:**
 - Revenue and orders by status
